@@ -13,7 +13,7 @@
 		"declaringWar": "We a go war!",
 		"attacked": "Yuh kno mi? Yuh a go find out!",
 		"defeated": "Mi done! Better to die a warrior than live enslaved.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"introduction": "Wha gwaan mi friend. Listen to the one drop and hold a medi.",
 		
 		"neutralHello": "Wha gwaan!",
 		//"neutralLetsHearIt": ["Wha yuh deh pan.","Mi deh yah."],
@@ -33,9 +33,9 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["Kingston","Montego Bay","Mandeville","Spanish Town","Maypen","Portmore","Ocho Rios","Port Antonio","Half Way Tree",
+			"St. Ann's Bay","Falmouth","Black River","Savanna-la-Mar","Lucea","Port Maria","Morant Bay","Port Royal","Old Harbour","Accompong",
+			"Runaway Bay","Oracabessa","Santa Cruz","Treasure Beach","Bog Walk","Point Hill","Stony Hill","Brown's Town","Porus","Highgate",
+			"Boston Bay","Jungle","Rema","Seaview Gardens","Cassava Piece","Mona"]
 	}
 ]
